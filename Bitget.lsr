@@ -1,0 +1,27 @@
+# UpdateTime: 2026-06-28 22:38:53
+# RuleCount: 25
+DOMAIN, emas-link-service.aliyuncs.com
+DOMAIN, prod-lb-geotest.oss-cn-shenzhen.aliyuncs.com
+DOMAIN, firebase-settings.crashlytics.com
+DOMAIN, appapi.gm816.com
+DOMAIN, img.gurenla.com
+DOMAIN, static-web.jjdsn.vip
+DOMAIN-SUFFIX, abcdstable.com
+DOMAIN-SUFFIX, bgstatic.com
+DOMAIN-SUFFIX, bitget.com
+DOMAIN-SUFFIX, bitgetapp.com
+DOMAIN-SUFFIX, bitgetapps.com
+DOMAIN-SUFFIX, krbitget.com
+DOMAIN-SUFFIX, lbkrs.com
+IP-CIDR, 8.129.31.152/32, no-resolve
+IP-CIDR, 49.0.203.96/32, no-resolve
+IP-CIDR, 101.46.11.9/32, no-resolve
+IP-CIDR, 119.8.165.113/32, no-resolve
+IP-CIDR, 119.13.110.238/32, no-resolve
+IP-CIDR, 124.243.137.219/32, no-resolve
+IP-CIDR, 124.243.146.4/32, no-resolve
+IP-CIDR, 159.138.84.20/32, no-resolve
+IP-CIDR, 159.138.87.239/32, no-resolve
+IP-CIDR, 166.108.204.224/32, no-resolve
+IP-CIDR, 188.239.32.77/32, no-resolve
+IP-CIDR, 190.92.208.115/32, no-resolve

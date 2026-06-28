@@ -1,0 +1,7 @@
+# UpdateTime: 2026-06-28 22:38:53
+# RuleCount: 5
+DOMAIN, amp-api-edge.apps.apple.com
+DOMAIN, firebase-settings.crashlytics.com
+DOMAIN, www.google-analytics.com
+DOMAIN, firebaseremoteconfig.googleapis.com
+DOMAIN-SUFFIX, tradingview.com
