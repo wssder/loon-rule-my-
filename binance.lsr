@@ -1,16 +1,18 @@
-# UpdateTime: 2026-06-28 22:38:53
-# RuleCount: 34
+# UpdateTime: 2026-06-28 23:44:09
+# RuleCount: 40
 DOMAIN, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
 DOMAIN, bin.bnbstatic.com
+DOMAIN, public.bscdnweb.com
+DOMAIN, static.bscdnweb.com
 DOMAIN, firebase-settings.crashlytics.com
 DOMAIN, addfd325e6e3.cdn4.forter.com
 DOMAIN, www.google-analytics.com
 DOMAIN, public.nftstatic.com
 DOMAIN, edge-api.saasexch.com
+DOMAIN, native.binance.info
 DOMAIN, www.binance.info
 DOMAIN, o529943.ingest.sentry.io
 DOMAIN, o529943.ingest.us.sentry.io
-DOMAIN-SUFFIX, bscdnweb.com
 IP-CIDR, 13.192.72.8/32, no-resolve
 IP-CIDR, 13.192.105.128/32, no-resolve
 IP-CIDR, 18.180.191.237/32, no-resolve
@@ -18,7 +20,11 @@ IP-CIDR, 39.108.55.122/32, no-resolve
 IP-CIDR, 39.108.179.41/32, no-resolve
 IP-CIDR, 39.108.239.197/32, no-resolve
 IP-CIDR, 43.145.17.249/32, no-resolve
+IP-CIDR, 43.174.242.71/32, no-resolve
+IP-CIDR, 43.174.242.196/32, no-resolve
+IP-CIDR, 43.174.242.227/32, no-resolve
 IP-CIDR, 47.106.103.72/32, no-resolve
+IP-CIDR, 47.106.111.2/32, no-resolve
 IP-CIDR, 47.106.116.105/32, no-resolve
 IP-CIDR, 47.106.125.50/32, no-resolve
 IP-CIDR, 47.106.171.207/32, no-resolve
