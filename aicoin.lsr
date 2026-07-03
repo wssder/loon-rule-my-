@@ -1,0 +1,45 @@
+# UpdateTime: 2026-07-03 13:33:37
+# RuleCount: 43
+DOMAIN, im.aicoin.com
+DOMAIN, im-temp.aicoin.com
+DOMAIN, static.aicoin.com
+DOMAIN, stream.aicoin.com
+DOMAIN, webassets.aicoin.com
+DOMAIN, static.aicoinstorge.com
+DOMAIN, dstream.binance.com
+DOMAIN, fstream.binance.com
+DOMAIN, stream.binance.com
+DOMAIN, dstream.binancewv.com
+DOMAIN, fstream.binancewv.com
+DOMAIN, stream.binancewv.com
+DOMAIN, www.google-analytics.com
+DOMAIN, www.googleapis.com
+DOMAIN, lh3.googleusercontent.com
+DOMAIN, api.hbdm.com
+DOMAIN, www.htx.com
+DOMAIN, ws.okx.com
+DOMAIN, wspri.okx.com
+DOMAIN, access.pushsdk.com
+DOMAIN, fx-webws.wsbridge.com
+DOMAIN, spot-webws.wsbridge.com
+DOMAIN, stream.mokexapp.info
+DOMAIN, real.coinall.ltd
+DOMAIN, wspri.coinall.ltd
+DOMAIN, dstream.binance.me
+DOMAIN, fstream.binance.me
+DOMAIN, stream.binance.me
+DOMAIN, api.web3modal.org
+DOMAIN, futures.htx.com.ph
+DOMAIN, api.huobi.pro
+DOMAIN, futures.htx.com.pt
+DOMAIN, www.htx.com.pt
+DOMAIN, api.gateio.ws
+DOMAIN, fx-ws.gateio.ws
+IP-CIDR, 8.210.20.107/32, no-resolve
+IP-CIDR, 8.210.75.239/32, no-resolve
+IP-CIDR, 42.193.140.77/32, no-resolve
+IP-CIDR, 43.136.111.166/32, no-resolve
+IP-CIDR, 43.139.48.11/32, no-resolve
+IP-CIDR, 104.18.43.174/32, no-resolve
+IP-CIDR, 159.75.139.82/32, no-resolve
+IP-CIDR, 223.5.5.5/32, no-resolve
