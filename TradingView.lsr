@@ -1,7 +1,19 @@
-# UpdateTime: 2026-06-28 22:38:53
-# RuleCount: 5
+# UpdateTime: 2026-07-03 13:29:21
+# RuleCount: 17
 DOMAIN, amp-api-edge.apps.apple.com
 DOMAIN, firebase-settings.crashlytics.com
 DOMAIN, www.google-analytics.com
 DOMAIN, firebaseremoteconfig.googleapis.com
-DOMAIN-SUFFIX, tradingview.com
+DOMAIN, charts-storage.tradingview.com
+DOMAIN, cn.tradingview.com
+DOMAIN, data.tradingview.com
+DOMAIN, economic-calendar.tradingview.com
+DOMAIN, mobile-data.tradingview.com
+DOMAIN, news-mediator.tradingview.com
+DOMAIN, notifications.tradingview.com
+DOMAIN, pine-facade.tradingview.com
+DOMAIN, pricealerts.tradingview.com
+DOMAIN, snowplow-pixel.tradingview.com
+DOMAIN, static.tradingview.com
+DOMAIN, telemetry.tradingview.com
+DOMAIN, www.tradingview.com
