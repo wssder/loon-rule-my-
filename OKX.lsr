@@ -1,14 +1,17 @@
-# UpdateTime: 2026-07-03 13:30:00
-# RuleCount: 27
+# UpdateTime: 2026-07-10 23:37:50
+# RuleCount: 31
 DOMAIN, cloudflare-dns.com
+DOMAIN, 19n8e9ldocdt8gbg.aliyunddos1021.com
+DOMAIN, c3fv428y61d35zp1.aliyunddos1021.com
 DOMAIN, q1546o23v2xxx877.aliyunddos1021.com
+DOMAIN, xz77vvm7j9od953m.aliyunddos1021.com
 DOMAIN, firebase-settings.crashlytics.com
 DOMAIN, web3.gihiji.com.eo.dnse4.com
+DOMAIN, wsdexpri.gihiji.com.eo.dnse4.com
 DOMAIN, wspri.gihiji.com.eo.dnse4.com
 DOMAIN, www.gihiji.com.eo.dnse4.com
 DOMAIN, web3.yiym1eo.com.eo.dnse4.com
 DOMAIN, wspri.yiym1eo.com.eo.dnse4.com
-DOMAIN, www.yiym1eo.com.eo.dnse4.com
 DOMAIN, crashlyticsreports-pa.googleapis.com
 DOMAIN, www.okx.com
 DOMAIN, api.onesignal.com
@@ -22,8 +25,9 @@ DOMAIN, d1w1p0smpsoh5j.cloudfront.net
 DOMAIN, d2p7qknqur0nu9.cloudfront.net
 DOMAIN, d2tbe9c16nz8ju.cloudfront.net
 DOMAIN, d3f0nrrzpmxcu1.cloudfront.net
+DOMAIN, d3hchkar88tm6l.cloudfront.net
 DOMAIN, aa.online-metrix.net
-DOMAIN, sac-canary-h.online-metrix.net
 DOMAIN, contendvc.cnouyi.pizza
 IP-CIDR, 8.210.73.205/32, no-resolve
 IP-CIDR, 8.212.1.102/32, no-resolve
+IP-CIDR, 47.97.124.22/32, no-resolve
