@@ -1,5 +1,5 @@
 # UpdateTime: 2026-07-10 23:37:50
-# RuleCount: 31
+# RuleCount: 33
 DOMAIN, cloudflare-dns.com
 DOMAIN, 19n8e9ldocdt8gbg.aliyunddos1021.com
 DOMAIN, c3fv428y61d35zp1.aliyunddos1021.com
@@ -24,6 +24,12 @@ DOMAIN, d3hchkar88tm6l.cloudfront.net
 DOMAIN, aa.online-metrix.net
 DOMAIN, sac-canary-h.online-metrix.net
 DOMAIN, contendvc.cnouyi.pizza
+DOMAIN, web3.okx.com.cdn.cloudflare.net
+DOMAIN, wsdexpri.okx.com.cdn.cloudflare.net
+DOMAIN, wspri.okx.com.cdn.cloudflare.net
+DOMAIN, www.okx.com.cdn.cloudflare.net
+DOMAIN, d1a9ug9i3w9ke0.cloudfront.net
+DOMAIN, d1nil3qbkxfj92.cloudfront.net
 IP-CIDR, 8.210.73.205/32, no-resolve
 IP-CIDR, 8.212.1.102/32, no-resolve
 IP-CIDR, 47.97.124.22/32, no-resolve
