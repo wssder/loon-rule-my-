@@ -1,5 +1,5 @@
-# UpdateTime: 2026-07-03 13:28:16
-# RuleCount: 87
+# UpdateTime: 2026-07-10 23:31:04
+# RuleCount: 60
 DOMAIN, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
 DOMAIN, native.binance.com
 DOMAIN, www.binance.com
@@ -9,13 +9,9 @@ DOMAIN, public.bscdnweb.com
 DOMAIN, static.bscdnweb.com
 DOMAIN, firebase-settings.crashlytics.com
 DOMAIN, addfd325e6e3.cdn4.forter.com
-DOMAIN, www.google-analytics.com
-DOMAIN, jnn-pa.googleapis.com
-DOMAIN, apxstatic-1306379396.file.myqcloud.com
 DOMAIN, public-1306379396.file.myqcloud.com
 DOMAIN, public.nftstatic.com
 DOMAIN, edge-api.saasexch.com
-DOMAIN, accounts.binance.info
 DOMAIN, native.binance.info
 DOMAIN, www.binance.info
 DOMAIN, ap-tds-tls.agora.io
@@ -23,67 +19,44 @@ DOMAIN, ap1-tls.agora.io
 DOMAIN, ap2-tls.agora.io
 DOMAIN, ap3-tls.agora.io
 DOMAIN, ap4-tls.agora.io
-DOMAIN, ap5-tls.agora.io
 DOMAIN, o529943.ingest.sentry.io
 DOMAIN, o529943.ingest.us.sentry.io
-DOMAIN, accounts.binance.me
-DOMAIN, aa.online-metrix.net
-DOMAIN, h.online-metrix.net
-DOMAIN, public.tylhh.net
 IP-CIDR, 13.192.72.8/32, no-resolve
 IP-CIDR, 13.192.105.128/32, no-resolve
 IP-CIDR, 18.180.191.237/32, no-resolve
-IP-CIDR, 36.248.10.182/32, no-resolve
-IP-CIDR, 36.248.15.51/32, no-resolve
-IP-CIDR, 39.108.55.122/32, no-resolve
-IP-CIDR, 39.108.179.41/32, no-resolve
-IP-CIDR, 39.108.239.197/32, no-resolve
-IP-CIDR, 43.145.17.249/32, no-resolve
-IP-CIDR, 43.174.242.71/32, no-resolve
+IP-CIDR, 27.155.117.197/32, no-resolve
 IP-CIDR, 43.174.242.196/32, no-resolve
 IP-CIDR, 43.174.242.227/32, no-resolve
-IP-CIDR, 43.174.245.103/32, no-resolve
-IP-CIDR, 47.106.103.72/32, no-resolve
 IP-CIDR, 47.106.111.2/32, no-resolve
-IP-CIDR, 47.106.116.105/32, no-resolve
-IP-CIDR, 47.106.125.50/32, no-resolve
 IP-CIDR, 47.106.171.207/32, no-resolve
-IP-CIDR, 47.107.178.148/32, no-resolve
-IP-CIDR, 47.107.244.13/32, no-resolve
-IP-CIDR, 47.245.28.219/32, no-resolve
 IP-CIDR, 52.198.187.114/32, no-resolve
 IP-CIDR, 54.65.161.3/32, no-resolve
 IP-CIDR, 57.180.143.38/32, no-resolve
-IP-CIDR, 59.83.211.23/32, no-resolve
-IP-CIDR, 61.241.101.172/32, no-resolve
-IP-CIDR, 101.69.215.76/31, no-resolve
-IP-CIDR, 101.69.215.91/32, no-resolve
-IP-CIDR, 101.71.75.238/32, no-resolve
+IP-CIDR, 101.69.180.118/32, no-resolve
+IP-CIDR, 101.69.215.77/32, no-resolve
 IP-CIDR, 101.251.217.26/32, no-resolve
 IP-CIDR, 101.251.217.28/32, no-resolve
 IP-CIDR, 103.228.162.61/32, no-resolve
 IP-CIDR, 106.15.179.166/32, no-resolve
-IP-CIDR, 106.53.165.44/32, no-resolve
-IP-CIDR, 114.132.46.122/32, no-resolve
+IP-CIDR, 113.219.237.99/32, no-resolve
 IP-CIDR, 116.62.79.64/32, no-resolve
-IP-CIDR, 116.162.21.7/32, no-resolve
-IP-CIDR, 116.162.21.11/32, no-resolve
 IP-CIDR, 116.162.21.14/32, no-resolve
-IP-CIDR, 119.23.63.226/32, no-resolve
+IP-CIDR, 119.84.246.242/32, no-resolve
+IP-CIDR, 119.147.117.155/32, no-resolve
 IP-CIDR, 120.24.233.110/32, no-resolve
-IP-CIDR, 120.77.173.49/32, no-resolve
 IP-CIDR, 120.79.244.149/32, no-resolve
+IP-CIDR, 122.224.51.133/32, no-resolve
+IP-CIDR, 122.224.51.137/32, no-resolve
+IP-CIDR, 122.224.51.204/31, no-resolve
+IP-CIDR, 122.246.10.110/32, no-resolve
+IP-CIDR, 132.226.60.241/32, no-resolve
 IP-CIDR, 139.159.110.147/32, no-resolve
 IP-CIDR, 139.159.110.148/32, no-resolve
 IP-CIDR, 152.69.222.146/32, no-resolve
-IP-CIDR, 153.101.65.214/32, no-resolve
-IP-CIDR, 157.148.128.150/32, no-resolve
-IP-CIDR, 157.148.128.242/32, no-resolve
-IP-CIDR, 157.148.135.134/32, no-resolve
-IP-CIDR, 157.148.135.139/32, no-resolve
-IP-CIDR, 157.148.135.141/32, no-resolve
-IP-CIDR, 157.148.135.143/32, no-resolve
-IP-CIDR, 157.148.135.149/32, no-resolve
-IP-CIDR, 157.148.135.154/31, no-resolve
 IP-CIDR, 168.138.214.216/32, no-resolve
 IP-CIDR, 172.66.1.246/32, no-resolve
+IP-CIDR, 175.4.30.167/32, no-resolve
+IP-CIDR, 175.4.30.171/32, no-resolve
+IP-CIDR, 183.60.121.51/32, no-resolve
+IP-CIDR, 222.79.111.153/32, no-resolve
+IP-CIDR, 222.79.111.235/32, no-resolve
