@@ -1,5 +1,5 @@
-# UpdateTime: 2026-07-09 23:29:03
-# RuleCount: 59
+# UpdateTime: 2026-07-10 23:29:03
+# RuleCount: 66
 DOMAIN, www.bitget.cafe
 DOMAIN, pushstat.api.engagelab.cc
 DOMAIN, app-analytics-services.com
@@ -7,19 +7,15 @@ DOMAIN, appapi.abcdstable.com
 DOMAIN, stream.abcdstable.com
 DOMAIN, www.abcdstable.com
 DOMAIN, emas-link-service.aliyuncs.com
+DOMAIN, prod-lb-geotest.oss-cn-shenzhen.aliyuncs.com
 DOMAIN, h1dz7f.cdn-settings.appsflyersdk.com
 DOMAIN, h1dz7f.launches.appsflyersdk.com
 DOMAIN, img.bgstatic.com
-DOMAIN, qrc.bgstatic.com
-DOMAIN, appapi.bitget.com
-DOMAIN, stream.bitget.com
-DOMAIN, www.bitget.com
-DOMAIN, appapi.bitgetapp.com
-DOMAIN, stream-cf.bitgetapp.com
 DOMAIN, www.bitgetapp.com
 DOMAIN, appapi.bitgetapps.com
 DOMAIN, stream.bitgetapps.com
 DOMAIN, www.bitgetapps.com
+DOMAIN, www.bjxnyj.com
 DOMAIN, firebase-settings.crashlytics.com
 DOMAIN, appapi.gdrichem.com
 DOMAIN, stream.gdrichem.com
@@ -30,12 +26,19 @@ DOMAIN, www.googletagmanager.com
 DOMAIN, img.gurenla.com
 DOMAIN, appapi.krbitget.com
 DOMAIN, stream.krbitget.com
+DOMAIN, api.lbkrs.com
 DOMAIN, www.krbitget.com
 DOMAIN, api-gl.lbkrs.com
+DOMAIN, m.lbkrs.com
 DOMAIN, m-gl.lbkrs.com
+DOMAIN, order-connect.lbkrs.com
 DOMAIN, order-connect-gl.lbkrs.com
+DOMAIN, performance-data.lbkrs.com
+DOMAIN, ping.lbkrs.com
 DOMAIN, ping-gl.lbkrs.com
+DOMAIN, quote.lbkrs.com
 DOMAIN, quote-gl.lbkrs.com
+DOMAIN, ws.lbkrs.com
 DOMAIN, ws-gl.lbkrs.com
 DOMAIN, log.noxiaohao.com
 DOMAIN, cacerts.rapidssl.com
@@ -44,6 +47,7 @@ DOMAIN, www.bitget.farm
 DOMAIN, www.bitget.land
 DOMAIN, sis.push.engageforce.net
 DOMAIN, www.turingfraud.net
+DOMAIN, www.sbxgh.top
 DOMAIN, static-web.jjdsn.vip
 DOMAIN, www.bitget.zone
 IP-CIDR, 8.129.31.152/32, no-resolve
@@ -52,10 +56,13 @@ IP-CIDR, 47.106.218.246/32, no-resolve
 IP-CIDR, 49.0.203.96/32, no-resolve
 IP-CIDR, 101.46.11.9/32, no-resolve
 IP-CIDR, 119.8.165.113/32, no-resolve
+IP-CIDR, 119.13.110.238/32, no-resolve
+IP-CIDR, 124.243.137.219/32, no-resolve
 IP-CIDR, 124.243.146.4/32, no-resolve
 IP-CIDR, 159.138.84.20/32, no-resolve
 IP-CIDR, 159.138.87.239/32, no-resolve
 IP-CIDR, 166.108.204.224/32, no-resolve
 IP-CIDR, 166.108.229.209/32, no-resolve
+IP-CIDR, 188.239.8.149/32, no-resolve
 IP-CIDR, 188.239.32.77/32, no-resolve
 IP-CIDR, 190.92.208.115/32, no-resolve
