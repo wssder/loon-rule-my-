@@ -5,12 +5,9 @@ DOMAIN, amp-api-edge.apps.apple.com
 DOMAIN, inappcheck.itunes.apple.com
 DOMAIN, mzstorekit.itunes.apple.com
 DOMAIN, firebase-settings.crashlytics.com
-DOMAIN, www.google.com
-DOMAIN, www.google-analytics.com
 DOMAIN, firebaselogging-pa.googleapis.com
 DOMAIN, firebaseremoteconfig.googleapis.com
 DOMAIN, charts-storage.tradingview.com
-DOMAIN, www.googletagmanager.com
 DOMAIN, cn.tradingview.com
 DOMAIN, data.tradingview.com
 DOMAIN, economic-calendar.tradingview.com
