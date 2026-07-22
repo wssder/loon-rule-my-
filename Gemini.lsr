@@ -1,0 +1,17 @@
+[Rule]
+# === Gemini 核心服务 ===
+DOMAIN-SUFFIX,gemini.google.com,你的策略组
+DOMAIN-SUFFIX,bard.google.com,你的策略组
+DOMAIN-SUFFIX,aistudio.google.com,你的策略组
+DOMAIN-SUFFIX,ai.google.dev,你的策略组
+
+# === 后端 API 通信 ===
+DOMAIN,alkalinetaiji-pa.googleapis.com,你的策略组
+DOMAIN,generativelanguage.googleapis.com,你的策略组
+DOMAIN,proactivebackend-pa.googleapis.com,你的策略组
+DOMAIN,cloudaicompanion.googleapis.com,你的策略组
+DOMAIN,googleai.googleapis.com,你的策略组
+
+# === Chrome AI 侧边栏与地理位置校验 ===
+DOMAIN,ogs.google.com, your策略组
+DOMAIN,ogads.google.com,你的策略组
