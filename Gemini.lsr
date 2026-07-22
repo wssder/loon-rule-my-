@@ -1,17 +1,20 @@
+#!name=Chrome Gemini Geofence Fix
+#!desc=修复 Mac Chrome 内置 Gemini 侧边栏及地区检测问题
+
 [Rule]
-# === Gemini 核心服务 ===
-DOMAIN-SUFFIX,gemini.google.com,你的策略组
-DOMAIN-SUFFIX,bard.google.com,你的策略组
-DOMAIN-SUFFIX,aistudio.google.com,你的策略组
-DOMAIN-SUFFIX,ai.google.dev,你的策略组
+# 核心服务
+DOMAIN-SUFFIX,gemini.google.com,PROXY
+DOMAIN-SUFFIX,bard.google.com,PROXY
+DOMAIN-SUFFIX,aistudio.google.com,PROXY
+DOMAIN-SUFFIX,ai.google.dev,PROXY
 
-# === 后端 API 通信 ===
-DOMAIN,alkalinetaiji-pa.googleapis.com,你的策略组
-DOMAIN,generativelanguage.googleapis.com,你的策略组
-DOMAIN,proactivebackend-pa.googleapis.com,你的策略组
-DOMAIN,cloudaicompanion.googleapis.com,你的策略组
-DOMAIN,googleai.googleapis.com,你的策略组
+# 后端 API
+DOMAIN,alkalinetaiji-pa.googleapis.com,PROXY
+DOMAIN,generativelanguage.googleapis.com,PROXY
+DOMAIN,proactivebackend-pa.googleapis.com,PROXY
+DOMAIN,cloudaicompanion.googleapis.com,PROXY
+DOMAIN,googleai.googleapis.com,PROXY
 
-# === Chrome AI 侧边栏与地理位置校验 ===
-DOMAIN,ogs.google.com, your策略组
-DOMAIN,ogads.google.com,你的策略组
+# Chrome 侧边栏及地理检测
+DOMAIN,ogs.google.com,PROXY
+DOMAIN,ogads.google.com,PROXY
